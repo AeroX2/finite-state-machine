@@ -50,4 +50,4 @@ for line in final:
         string += blob.replace(' ','');
 
     line = line.replace(' ','')
-    print(line, '&', string.split(" ")[0], '&', string.split(" ")[1])
+    print(line, string)

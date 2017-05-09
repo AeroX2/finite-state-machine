@@ -71,7 +71,8 @@ def printWebForm():
     print()
 
     for state in sorted(final, key=lambda x: x[0]):
-        print(state[0], '&', state[1], '&', state[2], '& \\\\')
+        print(state)
+        #print(state[0], '&', state[1], '&', state[2], '& \\\\')
         #print(state[0], '->', state[2], '[label ="1"]')
 
 def reduction():
