@@ -1,0 +1,14 @@
+even       abc-even   hole
+odd        abc-odd    yes
+yes        hole       hole 
+abc-odd    c2-odd     ab-odd
+ab-odd     b3oc3e     a3-odd
+b3oc3e     even       hole
+a3-odd     hole       even
+c2-odd     b3ec3o     hole
+b3ec3o     odd        hole
+abc-even   c2-even    ab-even
+ab-even    b3ec3o     a3-even
+a3-even    hole       odd
+c2-even    b3oc3e     hole
+hole       hole       hole
